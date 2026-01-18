@@ -13,6 +13,8 @@
 ---
 
 ### CPU (Central Prosessing Unit)
+<img src="img/AMDCPU.jpg" width="250" height="250" alt=CPU(AMD)>
+
 <a id=CPU></a>
 #### 1. ​컴퓨팅의 물리적 임계점 (에너지와 양자)
 <a id=1></a>
@@ -39,6 +41,7 @@
 [​양자 터널링 (Quantum Tunneling)](#QT): 트랜지스터가 너무 작아져서 전자가 막혀있는 벽을 뚫고 지나가 버리는 현상입니다. 
 <a id=GAAB></a>
 이를 막기 위해 [GAA(Gate-All-Around)](#GAA) 구조가 도입되었습니다.
+
 
 ---
 
