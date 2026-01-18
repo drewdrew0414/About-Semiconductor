@@ -14,6 +14,7 @@
 
 ### CPU (Central Prosessing Unit)
 <img src="img/AMDCPU.jpg" width="250" height="250" alt=CPU(AMD)>
+[ 출처 : AMD ]
 
 <a id=CPU></a>
 #### 1. ​컴퓨팅의 물리적 임계점 (에너지와 양자)
